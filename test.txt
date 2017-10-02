@@ -17,7 +17,9 @@ namespace TriangleOfNumbers
                     Console.Write($"{i} ");
             }
                 Console.WriteLine();
+
 		"Update with Bash…"
+		"Update with Tortoise…"
             }
         }
     }
