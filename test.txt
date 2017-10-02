@@ -16,7 +16,7 @@ namespace TriangleOfNumbers
             { for (var j = 1; j <= i; j++) {
                     Console.Write($"{i} ");
             }
-                Console.WriteLine("Update with Tortoise…");
+                Console.WriteLine();
             }
         }
     }
