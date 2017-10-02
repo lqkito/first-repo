@@ -11,15 +11,18 @@ namespace TriangleOfNumbers
         static void Main(string[] args)
         {
             var n = int.Parse(Console.ReadLine());
-
+Change here...
             for (var i = 1; i <= n; i++)
             { for (var j = 1; j <= i; j++) {
                     Console.Write($"{i} ");
+Updating with new line here
             }
                 Console.WriteLine();
 		"Update with Tortoise…"
             }
+Turtoise
         }
+Dots here...
     }
 }
 
